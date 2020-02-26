@@ -24,3 +24,5 @@ This is a repository to record the top 100 liked questions that I have done by u
 | 041 | First Missing Positive | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Hard | |
 | 042 | Trapping Rain Water | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Hard | |
 | 046 | Permutations | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Medium | [Solution](https://github.com/xingjianxiao/leetcode/blob/master/46.permutations.py) |
+| 048 | Rotate Image | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Medium | |
+| 049 | Group Anagrams | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Medium | [Solution](https://github.com/xingjianxiao/leetcode/blob/master/49.group-anagrams.py) |

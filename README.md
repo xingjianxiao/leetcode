@@ -5,7 +5,7 @@ This is a repository to record the top 100 liked questions that I have done by u
 | 001 | Two Sum | Easy | [Solution](https://github.com/xingjianxiao/leetcode/blob/master/1.two-sum.py) |
 | 002 | Add Two Numbers | Medium | [Solution](https://github.com/xingjianxiao/leetcode/blob/master/2.add-two-numbers.py) |
 | 003 | Longest Substring Without Repeating Characters | Medium | [Solution](https://github.com/xingjianxiao/leetcode/blob/master/3.longest-substring-without-repeating-characters.py) |
-| 004 | Median of Two Sorted Arrays | Hard | |
+| 004 | Median of Two Sorted Arrays | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Hard | |
 | 005 | Longest Palindromic Substring | Medium | [Solution](https://github.com/xingjianxiao/leetcode/blob/master/5.longest-palindromic-substring.py) |
 | 010 | Regular Expression Matching | Hard | |
 | 011 |	Container With Most Water | Medium | [Solution](https://github.com/xingjianxiao/leetcode/blob/master/11.container-with-most-water.py) |

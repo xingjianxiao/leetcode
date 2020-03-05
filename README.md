@@ -26,6 +26,6 @@ This is a repository to record the top 100 liked questions that I have done by u
 | 046 | Permutations | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Medium | [Solution](https://github.com/xingjianxiao/leetcode/blob/master/46.permutations.py) |
 | 048 | Rotate Image | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Medium | [Solution](https://github.com/xingjianxiao/leetcode/blob/master/48.rotate-image.py)
 | 049 | Group Anagrams | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Medium | [Solution](https://github.com/xingjianxiao/leetcode/blob/master/49.group-anagrams.py) |
-| 053 | Maximum Subarray | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Easy | [Solution](https://github.com/xingjianxiao/leetcode/blob/master/49.group-anagrams.py) |
-| 055 | Jump Game | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Medium | [Solution](https://github.com/xingjianxiao/leetcode/blob/master/49.group-anagrams.py) |
-| 056 | Merge Intervals | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Medium | [Solution](https://github.com/xingjianxiao/leetcode/blob/master/49.group-anagrams.py) |
+| 053 | Maximum Subarray | ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) Easy | [Solution](https://github.com/xingjianxiao/leetcode/blob/master/53.maximum-subarray.py) |
+| 055 | Jump Game | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Medium | [Solution](https://github.com/xingjianxiao/leetcode/blob/master/55.jump-game.py) |
+| 056 | Merge Intervals | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Medium | [Solution](https://github.com/xingjianxiao/leetcode/blob/master/56.merge-intervals.py) |

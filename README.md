@@ -31,3 +31,4 @@ This is a repository to record the top 100 liked questions that I have done by u
 | 055 | Jump Game | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Medium | [Solution](https://github.com/xingjianxiao/leetcode/blob/master/55.jump-game.py) |
 | 056 | Merge Intervals | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Medium | [Solution](https://github.com/xingjianxiao/leetcode/blob/master/56.merge-intervals.py) |
 | 062 | Unique Paths | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Medium | [Solution](https://github.com/xingjianxiao/leetcode/blob/master/62.unique-paths.py) |
+| 064 | Minimum Path Sum | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Medium | [Solution](https://github.com/xingjianxiao/leetcode/blob/master/64.minimum-path-sum.py) |

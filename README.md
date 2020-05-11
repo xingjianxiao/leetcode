@@ -33,3 +33,4 @@ This is a repository to record the top 100 liked questions that I have done by u
 | 062 | Unique Paths | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Medium | [Solution](https://github.com/xingjianxiao/leetcode/blob/master/62.unique-paths.py) |
 | 064 | Minimum Path Sum | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Medium | [Solution](https://github.com/xingjianxiao/leetcode/blob/master/64.minimum-path-sum.py) |
 | 070 | Climbing Stairs | ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) Easy | [Solution](https://github.com/xingjianxiao/leetcode/blob/master/70.climbing-stairs.py) |
+| 075 | Sort Colors | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Medium | [Solution](https://github.com/xingjianxiao/leetcode/blob/master/75.sort-colors.py) |
